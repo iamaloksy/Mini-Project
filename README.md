@@ -1,5 +1,5 @@
 
-<h4 align="center"> Some Project </h4>
+<h4 align="center"> Some Mini Projects </h4>
 
 <p align="center">
 <br>
@@ -10,7 +10,17 @@
 </p>
 
 ### [+] Description
-########################################################################################
+Here all the projects Are Available With  Open Soure Code You Can Copy/Paste For Practises 
+
+<ui>
+   <li>Calculator</li> 
+    <li>Analog Clock</li>
+    <li>Digital Clock</li>
+    <li>Login  & Registration Form</li>
+    <li>Servey Form</li>
+    <br>
+    And Manu More........
+</ui>
 
 ### [+] Find me on 
  <a href="mailto:kr.alok.sy@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-kr.alok.sy@gmail.com-blue?style=for-the-badge&logo=gmail"></a>
