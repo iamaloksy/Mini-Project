@@ -19,7 +19,7 @@ Here all the projects Are Available With  Open Soure Code You Can Copy/Paste For
     <li>Login  & Registration Form</li>
     <li>Servey Form</li>
     <br>
-    And Manu More........
+    And Many More........
 </ui>
 
 ### [+] Find me on 
