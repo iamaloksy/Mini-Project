@@ -1,5 +1,5 @@
 
-<h4 align="center"> Generate Readme </h4>
+<h4 align="center"> Some Project </h4>
 
 <p align="center">
 <br>
@@ -10,8 +10,7 @@
 </p>
 
 ### [+] Description
-readme generator is a tool that allows you to create simple and beautiful readme for your repository that you can copy/paste.
-
+########################################################################################
 
 ### [+] Find me on 
  <a href="mailto:kr.alok.sy@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-kr.alok.sy@gmail.com-blue?style=for-the-badge&logo=gmail"></a>
