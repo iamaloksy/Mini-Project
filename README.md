@@ -13,10 +13,8 @@
 Here all the projects Are Available With  Open Soure Code You Can Copy/Paste For Practises 
 
 <ui>
-   <li>Calculator</li> 
-    <li>Analog Clock</li>
-    <li>Digital Clock</li>
-    <li>Login  & Registration Form</li>
+   <li>Custom loader</li> 
+    <li>preloader</li>
     <li>Servey Form</li>
     <br>
     And Many More........
